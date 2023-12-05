@@ -11,3 +11,8 @@ sky:
     access-key-id: LTAI5tHNDunQ2k5LeXBJQso6
     access-key-secret: eXKhifv7lCKmwy6KM9ycBOTrUcGyIO
     bucket-name: sky-take-out-doudouwer
+  redis:
+    host:localhost
+    port:6379
+    #password: ''
+    #database:0
